@@ -26,7 +26,6 @@ function makeList(){
         
     }
     else{
-        //FOR EMPTY INPUT FIELD
         alert("Please Enter a Task");
     }
 }
