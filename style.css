@@ -1,0 +1,179 @@
+body{
+    background:#04A1BF;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    color: white;
+	font-size: 50px;
+}
+
+p{
+	font-size: 18px;
+}
+
+h1,p{
+    font-weight: bolder;
+}
+
+#first{
+    color: #fcbe11;
+}
+
+#second{
+    color: green;
+}
+
+#third{
+    color: red;
+}
+
+#userInput{
+    padding: 10px;
+    border-radius: 5px;
+    width: 50%;
+	border: none;
+	font-size: 20px;
+}
+
+#submit {
+	border: none;
+	padding: 6px 17px 8px 17px;
+	border-radius: 5px;
+	color: #04A1BF;
+	background-color: #025F70;
+	transition: all 0.75s ease;
+	font-weight: 800;
+	font-size: 20px;
+}
+#submit:hover{
+	cursor: pointer;
+	background-color: #02798F;
+	color: #FFCD5D;
+}
+
+#itemList{
+    margin-top: 20px;
+}
+.item{
+	font-size: 18px;
+    margin: auto;
+    list-style: none;
+	width: 50%;
+	padding: 10px 20px;
+	color: #ffffff;
+	text-transform: capitalize;
+	font-weight: 600;
+	border: 2px solid #025f70;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	background: #4EB9CD;
+	transition: all 0.75s ease;
+}
+
+.item:hover {
+	background: #76CFE0;
+}
+
+.change{
+    background: #51DF70 !important;
+	color: #00891E;
+}
+
+.delete{
+    background: none;
+	border: none;
+	float: right;
+	color: #025f70;
+	font-weight: 800;
+}body{
+    background: #04A1BF;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    color: white;
+	font-size: 50px;
+}
+
+p{
+	font-size: 18px;
+}
+
+h1,p{
+    font-weight: bolder;
+}
+
+#first{
+    color: #fcbe11;
+}
+
+#second{
+    color: green;
+}
+
+#third{
+    color: red;
+}
+
+#userInput{
+    padding: 10px;
+    border-radius: 5px;
+    width: 50%;
+	border: none;
+	font-size: 20px;
+}
+
+#submit {
+	border: none;
+	padding: 6px 17px 8px 17px;
+	border-radius: 5px;
+	color: #04A1BF;
+	background-color: #025F70;
+	transition: all 0.75s ease;
+	font-weight: 800;
+	font-size: 20px;
+}
+#submit:hover{
+	cursor: pointer;
+	background-color: #02798F;
+	color: #FFCD5D;
+}
+
+#itemList{
+    margin-top: 20px;
+}
+.item{
+	font-size: 18px;
+    margin: auto;
+    list-style: none;
+	width: 50%;
+	padding: 10px 20px;
+	color: #ffffff;
+	text-transform: capitalize;
+	font-weight: 600;
+	border: 2px solid #025f70;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	background: #4EB9CD;
+	transition: all 0.75s ease;
+}
+
+.item:hover {
+	background: #76CFE0;
+}
+
+.change{
+    background: #51DF70 !important;
+	color: #00891E;
+}
+
+.delete{
+    background: none;
+	border: none;
+	float: right;
+	color: #025f70;
+	font-weight: 800;
+}
