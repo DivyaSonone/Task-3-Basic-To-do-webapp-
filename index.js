@@ -10,8 +10,6 @@ function makeList(){
                         <button class="delete" type="button">X</button>
                      </div>`;
         
-
-        //DELETE BUTTON
         let currentTask=document.querySelectorAll(".delete");
         for(let i=0;i<currentTask.length;i++){
             currentTask[i].onclick= function(){
@@ -19,8 +17,6 @@ function makeList(){
             }
         }
         
-
-        //CHANGE COLOR
         let items=document.querySelectorAll(".item");
         for(let i=0;i<items.length;i++){
             items[i].onclick= function(){
@@ -28,8 +24,6 @@ function makeList(){
             }
         }
         
-
-
     }
     else{
         //FOR EMPTY INPUT FIELD
